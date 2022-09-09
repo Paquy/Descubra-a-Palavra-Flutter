@@ -1,16 +1,6 @@
-# descobrindo_palavra
+# Descobrindo a Palavra
 
-A new Flutter project.
+O primeiro desafio proposto, foi basicamente desenvolver uma aplicação que ao clicar nos botões formasse a frase "EU VOU VIRAR DEV". Com cada palavra separada em underlines e quando clicasse no botão 1 apareceria "EU" no primeiro underline, quando clicasse no botão 2 apareceria "VOU" no segundo underline e assim sucessivamente.
 
-## Getting Started
+Utilizei 4 ElevatedButton, 6 Text's e 4 String's. Aloquei as palavras em cada string, colocando um if para realizar a troca da palavra pelos underlines dento da ação de click dos botões.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
